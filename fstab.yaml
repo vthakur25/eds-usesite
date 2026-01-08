@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p178652-e1884002.adobeaemcloud.com/bin/franklin.delivery/vthakur25/eds-uesite/main"
+    url: "https://author-p178652-e1884002.adobeaemcloud.com/bin/franklin.delivery/vthakur25/eds-usesite/main"
     type: "markup"
     suffix: ".html"
